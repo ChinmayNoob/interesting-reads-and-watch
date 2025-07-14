@@ -15,3 +15,11 @@
 [Dwitter](https://www.dwitter.net/): A social network for creating and sharing short JavaScript animations and demos.
 
 [SQLBolt](https://sqlbolt.com/): An Interactive Tutorial to learn SQL
+
+[UI Labs](https://www.uilabs.dev/)
+
+[3blue1brown lessons](https://www.3blue1brown.com/#lessons)
+
+[React Query Builder](https://react-querybuilder.js.org/)
+
+[Drizzle-Run](https://drizzle.run/)
